@@ -1,16 +1,47 @@
-## Hi there 👋
+# Cześć! Tu Irek 🛡️
 
-<!--
-**ipodgorski/ipodgorski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Student Informatyki | Pasjonat Cybersecurity
+Jestem studentem **II roku Informatyki na Politechnice Rzeszowskiej**. Moim głównym celem jest rozwój w stronę bezpieczeństwa defensywnego oraz analizy zagrożeń. Obecnie szlifuję umiejętności na platformie **TryHackMe** oraz realizuję projekty uczelniane.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Techniczny & Narzędzia
+
+### **Cybersecurity & Networking**
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-006400?style=flat)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-FF4B11?style=flat)
+
+### **Programowanie & Systemy**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 🚀 Moja aktywność
+
+### 🏗️ Obecne projekty:
+* **Security Scripts:** Automatyzacja rekonesansu przy użyciu Pythona.
+* **THM Write-ups:** Dokumentowanie moich postępów i metodologii rozwiązywania maszyn na TryHackMe.
+* **Networking Labs:** Konfiguracja i zabezpieczanie sieci w środowiskach wirtualnych.
+
+### 🚩 TryHackMe Progress:
+* **Profil:** [Link do Twojego profilu THM]([https://tryhackme.com/p/TWOJ_NICK](https://tryhackme.com/p/ipodgorski))
+* **Ścieżki w trakcie:** *Pre-Security*, *SOC Level 1*, *Complete Beginner*.
+
+---
+
+## 📊 Statystyki GitHub
+![Twoje Statystyki](https://github-readme-stats.vercel.app/api?username=TWÓJ_LOGIN_GITHUB&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Kontakt
+* **LinkedIn:** [linkedin.com/in/TWOJ_PROFIL](https://www.linkedin.com/in/ireneusz-podgórski-a79098338/)
+* **E-mail:** [i_podgorski@wp.pl]
+
+---
+*„The quieter you become, the more you are able to hear.”*
