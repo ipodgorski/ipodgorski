@@ -29,18 +29,14 @@ Jestem studentem **II roku Informatyki na Politechnice Rzeszowskiej**. Moim gł�
 * **Networking Labs:** Konfiguracja i zabezpieczanie sieci w środowiskach wirtualnych.
 
 ### 🚩 TryHackMe Progress:
-* **Profil:** [Link do Twojego profilu THM]([https://tryhackme.com/p/TWOJ_NICK](https://tryhackme.com/p/ipodgorski))
+* **Profil:** [Link Twojego profilu THM](https://tryhackme.com/p/ipodgorski)
 * **Ścieżki w trakcie:** *Pre-Security*, *SOC Level 1*, *Complete Beginner*.
 
 ---
 
-## 📊 Statystyki GitHub
-![Twoje Statystyki](https://github-readme-stats.vercel.app/api?username=TWÓJ_LOGIN_GITHUB&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Kontakt
-* **LinkedIn:** [linkedin.com/in/TWOJ_PROFIL](https://www.linkedin.com/in/ireneusz-podgórski-a79098338/)
+* **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/ireneusz-podgórski-a79098338/)
 * **E-mail:** [i_podgorski@wp.pl]
 
 ---
