@@ -1,42 +1,42 @@
 # Cześć! Tu Irek 🛡️
 
-### 🎓 Student Informatyki | Pasjonat Cybersecurity
-Jestem studentem **II roku Informatyki na Politechnice Rzeszowskiej**. Moim głównym celem jest rozwój w stronę bezpieczeństwa defensywnego oraz analizy zagrożeń. Obecnie szlifuję umiejętności na platformie **TryHackMe** oraz realizuję projekty uczelniane.
+### 🎓 Student Informatyki | Pasjonat Cyberbezpieczeństwa
+Jestem studentem **II roku Informatyki na Politechnice Rzeszowskiej**. Skupiam się na budowaniu solidnych fundamentów w obszarze bezpieczeństwa defensywnego (SOC), administracji systemami oraz sieci komputerowych.
 
 ---
 
-## 🛠️ Stack Techniczny & Narzędzia
+## 🛠️ Stack Techniczny (Zgodnie z CV)
 
 ### **Cybersecurity & Networking**
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-006400?style=flat)
+![Linux](https://img.shields.io/badge/-Linux%20Terminal-FCC624?style=flat&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-FF4B11?style=flat)
+![PowerShell](https://img.shields.io/badge/-PowerShell-2CA5E0?style=flat&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### **Programowanie & Systemy**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### **Programowanie**
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
-## 🚀 Moja aktywność
+## 🚀 Mój Rozwój i Dokumentacja
 
-### 🏗️ Obecne projekty:
-* **Security Scripts:** Automatyzacja rekonesansu przy użyciu Pythona.
-* **THM Write-ups:** Dokumentowanie moich postępów i metodologii rozwiązywania maszyn na TryHackMe.
-* **Networking Labs:** Konfiguracja i zabezpieczanie sieci w środowiskach wirtualnych.
+Obecnie traktuję GitHub jako mój **techniczny dziennik nauki**. Dokumentuję tutaj proces zdobywania wiedzy, aby utrwalać poznane koncepcje.
 
-### 🚩 TryHackMe Progress:
-* **Profil:** [Link do profilu THM](https://tryhackme.com/p/ipodgorski)
-* **Ścieżki w trakcie:** *Pre-Security*, *SOC Level 1*, *Complete Beginner*.
+### 🏗️ Nad czym obecnie pracuję:
+* **THM Write-ups:** Notatki i opisy przejścia pokoi na platformie TryHackMe.
+* **University Projects:** Projekty realizowane w ramach studiów na Politechnice Rzeszowskiej (C++, Java).
+* **Home Lab Notes:** Dokumentacja konfiguracji maszyn wirtualnych i testowania usług sieciowych.
+
+### 🚩 TryHackMe Progress
+* **Profil:** [ipodgorski](https://tryhackme.com/p/ipodgorski)
+* **W trakcie:** Ścieżka *Cyber Security 101* – budowanie fundamentów od warstwy sprzętowej po aplikacyjną.
 
 ---
-
 
 ## 📫 Kontakt
-* **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/ireneusz-podgórski-a79098338/)
+* **LinkedIn:** [Ireneusz Podgórski](https://www.linkedin.com/in/ireneusz-podgórski-a79098338/)
 * **E-mail:** [i_podgorski@wp.pl]
 
 ---
