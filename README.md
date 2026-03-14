@@ -5,7 +5,7 @@ Jestem studentem **II roku Informatyki na Politechnice Rzeszowskiej**. Skupiam s
 
 ---
 
-## 🛠️ Stack Techniczny (Zgodnie z CV)
+## 🛠️ Stack Techniczny 
 
 ### **Cybersecurity & Networking**
 ![Linux](https://img.shields.io/badge/-Linux%20Terminal-FCC624?style=flat&logo=linux&logoColor=black)
