@@ -1,7 +1,7 @@
 # Cześć! Tu Irek 🛡️
 
 ### 🎓 Student Informatyki | Pasjonat Cyberbezpieczeństwa
-Jestem studentem **II roku Informatyki na Politechnice Rzeszowskiej**. Skupiam się na budowaniu solidnych fundamentów w obszarze bezpieczeństwa defensywnego (SOC), administracji systemami oraz sieci komputerowych.
+Jestem studentem **II roku Informatyki na Politechnice Rzeszowskiej**. Skupiam się na budowaniu solidnych fundamentów w obszarze bezpieczeństwa defensywnego, administracji systemami oraz sieci komputerowych.
 
 ---
 
@@ -15,7 +15,7 @@ Jestem studentem **II roku Informatyki na Politechnice Rzeszowskiej**. Skupiam s
 
 ### **Programowanie**
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java]![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
@@ -26,7 +26,7 @@ Obecnie traktuję GitHub jako mój **techniczny dziennik nauki**. Dokumentuję t
 
 ### 🏗️ Nad czym obecnie pracuję:
 * **THM Write-ups:** Notatki i opisy przejścia pokoi na platformie TryHackMe.
-* **University Projects:** Projekty realizowane w ramach studiów na Politechnice Rzeszowskiej (C++, Java).
+* **University Projects:** Projekty i zadania realizowane w ramach studiów na PRz.
 * **Home Lab Notes:** Dokumentacja konfiguracji maszyn wirtualnych i testowania usług sieciowych.
 
 ### 🚩 TryHackMe Progress
