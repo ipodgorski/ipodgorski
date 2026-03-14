@@ -24,11 +24,12 @@ Jestem studentem **II roku Informatyki na Politechnice Rzeszowskiej**. Skupiam s
 
 Obecnie traktuję GitHub jako mój **techniczny dziennik nauki**. Dokumentuję tutaj proces zdobywania wiedzy, aby utrwalać poznane koncepcje.
 
-### 🏗️ Nad czym obecnie pracuję:
-* **THM Write-ups:** Notatki i opisy przejścia pokoi na platformie TryHackMe.
-* **University Projects:** Projekty i zadania realizowane w ramach studiów na PRz.
-* **Home Lab Notes:** Dokumentacja konfiguracji maszyn wirtualnych i testowania usług sieciowych.
 
+### 🏗️ Nad czym obecnie pracuję:
+* **[🛡️ Dokumentacja TryHackMe](https://github.com/ipodgorski/TryHackMe-Notes)** – Mój techniczny dziennik nauki, w którym opisuję proces zdobywania wiedzy.
+* **University Projects:** (Soon)
+
+  
 ### 🚩 TryHackMe Progress
 * **Profil:** [ipodgorski](https://tryhackme.com/p/ipodgorski)
 * **W trakcie:** Ścieżka *Cyber Security 101* – budowanie fundamentów od warstwy sprzętowej po aplikacyjną.
