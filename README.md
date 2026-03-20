@@ -40,5 +40,4 @@ Obecnie traktuję GitHub jako mój **techniczny dziennik nauki**. Dokumentuję t
 * **LinkedIn:** [Ireneusz Podgórski](https://www.linkedin.com/in/ireneusz-podgórski-a79098338/)
 * **E-mail:** [i_podgorski@wp.pl]
 
----
-*„The quieter you become, the more you are able to hear.”*
+
