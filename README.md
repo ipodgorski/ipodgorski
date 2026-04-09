@@ -27,7 +27,7 @@ Obecnie traktuję GitHub jako mój **techniczny dziennik nauki**. Dokumentuję t
 
 ### 🏗️ Nad czym obecnie pracuję:
 * **[🛡️ Dokumentacja TryHackMe](https://github.com/ipodgorski/TryHackMe-Notes)** – Mój techniczny dziennik nauki, w którym opisuję proces zdobywania wiedzy.
-* **[🏠 Budowa własnego Home Lab](https://github.com/ipodgorski/Home-Lab)** - Budowa własnego środowiska serwerowego.
+* **[🏠 Budowa własnego Home Lab](https://github.com/ipodgorski/Home-Lab)** - Budowa własnego środowiska serwerowego. (In progress)
 * **University Projects:** (Soon)
 
   
